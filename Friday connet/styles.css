@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    margin-left: 40px;
+}
+.first-blue{
+    height: 400px;
+    width: 200px;
+    background-color:blue;
+
+}
+.second-white{
+    height: 400px;
+    width: 200px;
+    background-color:rgba(85, 152, 155, 0.493);
+    
+}
+h1{
+    color: white;
+    margin-bottom: 100px;
+}
+h2{
+    color: white;
+    margin-bottom: 10px;
+}
+.sign-up{
+    background-color: blue;
+    margin-top: 40px;
+    color: white;
+}
+.Sign-in{
+    background-color: blue;
+    color: white;
+}
